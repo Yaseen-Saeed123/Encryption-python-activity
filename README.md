@@ -1,5 +1,5 @@
-# Encryption-python-activity
-This project was done by python only. Read the README file included to know more 
+# This program is like an encryption program
+Languages used: Python
 
 # Simple description of the program steps
 
